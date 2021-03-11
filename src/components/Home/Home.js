@@ -18,7 +18,7 @@ const Home = () => {
 
 <header>
 <h1 style={{backgroundImage:' linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.lawinsport.com/media/zoo/images/The-stadium_01982368c4b5db6822abe729707173d7.jpeg)', padding:'100px', backgroundSize:'100% 100%',
-backgroundRepeat:'no-repeat', opacity:'1.0',color:'white'}}>League of Legends</h1>
+backgroundRepeat:'no-repeat', opacity:'1.0',color:'white'}}>LEAGUE OF LEGENDS</h1>
 </header>
 
   {/* DYNAMIC DATA */}
